@@ -20,4 +20,4 @@ Clique no arquivo index.html e divirta-se!!!
 
 Créditos: https://www.youtube.com/@ManualdoDev
 
-Licença do projeto: MIT License
+Licença do projeto: MIT License 
